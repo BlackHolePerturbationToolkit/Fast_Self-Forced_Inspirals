@@ -13,7 +13,7 @@ git clone https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspi
 
 ## Requirements, Installation and Usage
 
-For details on these topics check out the [README][https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspirals/blob/master/README.md]
+For details on these topics check out the [README](https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspirals/blob/master/README.md)
 
 ## Known problems
 
