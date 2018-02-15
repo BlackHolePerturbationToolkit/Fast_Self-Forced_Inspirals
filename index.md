@@ -15,10 +15,13 @@ git clone https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspi
 
 For details on these topics check out the [README](https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspirals/blob/master/README.md)
 
+## Status
+
+The NIT inspiral model is constructed using the self-force model from [N. Warburton et. al.](https://arxiv.org/abs/1111.6908). Consequently it is only valid for Schwarzschild inspirals with initial parameters 0 <= e <0.2 and 6+2e < p_0 < 12. This will be extended in the near future using the self-force model of [T. Osburn et. al.](https://arxiv.org/abs/1511.01498). The plan is also to extend the model to generic inspirals in Kerr spacetime.
+
 ## Known problems
 
 Known bugs are recorded in the project [bug tracker](https://github.com/BlackHolePerturbationToolkit/Fast_Self-Forced_Inspirals/issues).
-
 
 ## License
 
