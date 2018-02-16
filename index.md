@@ -1,6 +1,6 @@
 ![NIT phase space inspiral](phase_space_inspiral.png)
 
-C++ code to compute self-force inspirals rapidly using the near-identity transformed (NIT’d) equations of motion
+C++ code to compute self-force inspirals rapidly using the near-identity transformed (NIT’d) equations of motion.
 
 ## Getting the code
 
@@ -34,7 +34,7 @@ Niels Warburton
 
 ## Citation Guideline
 
-If you make use of this Toolkit module in your work please cite: M. van de Meent, N. Warburton, "Fast Self-forced Inspirals", arXiv:????.?????
+If you make use of this Toolkit module in your work please cite: M. van de Meent, N. Warburton, "Fast Self-forced Inspirals", [arXiv:1802.05281](https://arxiv.org/abs/1802.05281)
 
 We also ask that if you make use of any of the Toolkit in your research please acknowledge using:
 
