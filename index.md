@@ -2,7 +2,7 @@
 
 C++ code to compute self-force inspirals rapidly using the near-identity transformed (NIT’d) equations of motion
 
-## Getting the package
+## Getting the code
 
 The latest development version will always be available from the project git
 repository:
