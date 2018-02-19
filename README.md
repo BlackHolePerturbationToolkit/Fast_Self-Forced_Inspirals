@@ -3,6 +3,8 @@
 Software to rapidly compute inspirals trajectories and their associated waveforms for eccentric small mass-ratio inspirals into a Schwarzschild black hole. 
 The computed inspirals and waveform include local self-force effects.
 
+Details of the near-identity transformation method used can be found in: https://arxiv.org/abs/1802.05281
+
 ### Dependencies
 
 The NIT inspiral code depends upon:
