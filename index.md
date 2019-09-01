@@ -1,6 +1,13 @@
-![NIT phase space inspiral](phase_space_inspiral.png)
+{% include head.html %}
+
+<p>
+ <h1 style="display:inline">Fast self-forced inspirals</h1> <span style="float:right;"><a href="{{ site.github.repository_url }}" class = "code_btn">Get the code!</a></span>
+</p>
 
 C++ code to compute self-force inspirals rapidly using the near-identity transformed (NIT’d) equations of motion.
+
+
+![NIT phase space inspiral](phase_space_inspiral.png)
 
 ## Getting the code
 
