@@ -48,13 +48,13 @@ To compute a waveform one must first compute the inspiral using the commands abo
 configuration file found in config/parameters.cfg. To compute the waveform associated with a NIT inspiral use
 
 ```
-./NIT -w p0 e0 q -n
+./NIT_inspiral -w p0 e0 q -n
 ```
 
 Similarly to compute the waveform associated with a full self-forced inspiral use:
 
 ```
-./NIT -w p0 e0 q -f
+./NIT_inspiral -w p0 e0 q -f
 ```
 
 ### Licence
