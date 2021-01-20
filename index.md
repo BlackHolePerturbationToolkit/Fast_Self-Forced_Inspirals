@@ -36,7 +36,7 @@ The code is licensed under the GPLv3 open-source licence. Details can be found i
 
 ## Authors and contributors
 
-Niels Warburton, Maarten van de Meent    
+**Niels Warburton**, Maarten van de Meent    
 
 
 ## Citation Guideline
