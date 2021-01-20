@@ -34,9 +34,9 @@ Known bugs are recorded in the project [bug tracker](https://github.com/BlackHol
 
 The code is licensed under the GPLv3 open-source licence. Details can be found in the LICENSE file.
 
-## Authors
+## Authors and contributors
 
-Niels Warburton    
+Niels Warburton, Maarten van de Meent    
 
 
 ## Citation Guideline
